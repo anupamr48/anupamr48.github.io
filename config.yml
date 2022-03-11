@@ -1,4 +1,4 @@
-baseURL: https://anupamr48.github.io
+baseURL: https://anupamr48.github.io/
 languageCode: en-us
 defaultContentLanguage: en
 title: Anupam Roy
@@ -9,7 +9,6 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: G-BGSTB91JYZ
 
 minify:
   disableXML: true
