@@ -1,6 +1,6 @@
 ---
-title: sris.co
-description: Sebastián Risco
+title: Anupam Roy
+description: Anupam Roy
 ---
 
 {{< lead >}}
@@ -15,7 +15,7 @@ I'm **Anupam Roy**, a test automation engineer with strong experience in designi
 
 <br>
 
-Details about some of my personal projects can be found [here](https://anupamr48.github.io/projects/). In my free time, I like to pursue [photography](https://500px.com/p/anupamroy?view=photos) and occasionally [blog](https://royanupam.medium.com/) about things. 
+Details about some of my personal projects can be found [here](https://anupamr48.github.io/projects/). In my free time, I like to pursue [photography](https://500px.com/p/anupamroy?view=photos) and occasionally [blog](https://royanupam.medium.com/) about things.
 
 <br>
 
