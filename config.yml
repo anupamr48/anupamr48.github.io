@@ -1,0 +1,59 @@
+baseURL: https://anupamr48.github.io
+languageCode: en-us
+defaultContentLanguage: en
+title: Anupam Roy
+theme: congo
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: G-BGSTB91JYZ
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+disableKinds:
+- taxonomy
+- term
+
+author:
+  name: Anupam Roy
+  image: /img/profile.jpg
+  links:
+  - email: mailto:anupamr48@gmail.com
+  - github: https://github.com/anupamr48
+  - linkedin: https://www.linkedin.com/in/anupamroy/
+  - twitter: https://twitter.com/anupamr48
+  - foursquare: https://www.foursquare.com/anupamr48
+
+params:
+  env: production
+  keywords: [Portfolio, Sebastián Risco]
+  colorScheme: ocean
+  darkToggle: true
+  homepage:
+    layout: profile
+    showRecent: false
+  article:
+    showDate: false
+    showAuthor: false
+    showReadingTime: false
+    showPagination: false
+
+menu:
+  main:
+  - identifier: about
+    name: About
+    url: /about/
+    weight: 10
+  - identifier: projects
+    name: Projects
+    url: /projects/
+    weight: 20
+  - identifier: blog
+    name: Blog
+    url: /blog/
+    weight: 30
