@@ -1,5 +1,5 @@
 ---
-description: Personal website of Anupam Roy - Test automation engineer.
+description: Personal website of Anupam Roy - Test Engineer based out of Sydney.
 draft: false
 showAuthor: false
 showDate: false
@@ -11,7 +11,7 @@ title: About
 
 **G’day, I’m Anupam!** :wave:
 
-I'm a Software Test Engineer based in Sydney having 12+ years of experience in various testing roles for different firms and projects. I have experience building automation frameworks from scratch for testing of Web, Mobile and API applications. I have also done Performance testing and Security testing using open source and enterprise tools. Specifically, I have worked with tools such as Selenium, Cypress, Appium, SeeTest, Katalon Studio, Postman, Soap UI etc. I have good coding knowledge in Java, Javascript, C# and Python.
+I'm a Software Test Engineer based in Sydney having 12+ years of experience in various testing roles for different firms and projects. I have experience building automation frameworks from scratch for testing of Web, Mobile and API applications and integration with CI/CD tools such as **Jenkins, CircleCI, Bamboo and Azure DevOps.** I have also done Performance and Security testing using open source and enterprise tools. Specifically, I have worked with tools such as **Selenium, Cypress, Appium, SeeTest, Katalon Studio, Postman, Soap UI, SauceLabs, UiPath** etc. I have good coding knowledge in **Java, Javascript, C# and Python.**
 
 I also have interest in [Service Virtualization](https://smartbear.com/learn/software-testing/what-is-service-virtualization/), [Shift-left approach](https://www.browserstack.com/guide/what-is-shift-left-testing) for software testing and [AI-based testing tools](https://www.testingxperts.com/blog/AI-in-Software-Testing#:~:text=superior%20customer%20experience.-,What%20is%20AI%2Dbased%20Testing%3F,process%20smarter%20and%20highly%20effective.).
 
