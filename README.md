@@ -36,7 +36,3 @@ Example
 ```shell
 bundle exec ruby update_time_in_article.rb content/blog/2021/07/06/sorry-the-get-protocol-doesnt-solve-ticket-scalping-through-blockchain/index.md America/Los_Angeles
 ```
-
-# Status
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e9e375f3-5da4-4d63-9906-3565bb8d7dd9/deploy-status)](https://app.netlify.com/sites/antoinesoetewey/deploys)
