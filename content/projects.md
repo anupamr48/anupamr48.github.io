@@ -8,12 +8,12 @@ title: Projects
 
 - Uitest using Cucumber & serenity. (2021) **UI test cases to test several features on http://automationpractice.com/index.php** *Used Cucumber and Serenity for BDD*. https://github.com/anupamr48/uitest-cucumber-selenium
 
-- Sebastián Risco and Germán Moltó. (2021) **GPU-Enabled Serverless Workflows for Efficient Multimedia Processing.** *Applied Sciences*, 1438 (11), 1 - 17. https://doi.org/10.3390/app11041438
+- RMS booking flow automated. Selenium & Cucumber. (2021) **RMS booking website - customer flow test cases automated** *RMS Web* https://doi.org/10.3312290/app1122211041438
 
 ## 2020
 
-- Diana M. Naranjo, Sebastián Risco, Carlos de Alfonso, Alfonso Pérez, Ignacio Blanquer and Germán Moltó. (2020) **Accelerated serverless computing based on GPU virtualization.** *Journal of Parallel and Distributed Computing*, (139)32 - 42. https://doi.org/10.1016/j.jpdc.2020.01.004.
+- Open Banking OAuth test cases. (2020) **OAuth API workflows tested and verified to be working as per the CDS guidelines** *Open Banking positive flows*, (139)32 - 42. https://github.com/anupamr48/oauth-open-banking-flows-test.
 
 ## 2019
 
-- Alfonso Perez, Sebastian Risco, Diana M. Naranjo, Miguel Caballer and German Molto. (2019) **On-Premises Serverless Computing for Event-Driven Data Processing Applications.** *12th IEEE International Conference on Cloud Computing (CLOUD 2019)*, (414 - 421). Milan, Italy. https://doi.org/10.1109/CLOUD.2019.00073
+- Chrome browser extension theme. (2019) **A minimal theme for Chrome Browser using gradient grey colour and highlighted tabs** *Chrome browser theme extension*, (414 - 421). Singapore. https://chrome.google.com/webstore/detail/stylish-custom-themes-for/juhhtggggaggfsfgfgghshhs
