@@ -8,7 +8,7 @@ title: Projects
 
 - Uitest using Cucumber & serenity. (2021) **UI test cases to test several features on http://automationpractice.com/index.php** *Used Cucumber and Serenity for BDD*. https://github.com/anupamr48/uitest-cucumber-selenium
 
-- RMS booking flow automated. Selenium & Cucumber. (2021) **RMS booking website - customer flow test cases automated** *RMS Web* https://doi.org/10.3312290/app1122211041438
+- RMS booking flow automated. Selenium & Cucumber. (2021) **RMS booking website - customer flow test cases automated** *RMS Web* https://bitbucket.org/user/workspace/projects/PROJ
 
 ## 2020
 
@@ -16,4 +16,4 @@ title: Projects
 
 ## 2019
 
-- Chrome browser extension theme. (2019) **A minimal theme for Chrome Browser using gradient grey colour and highlighted tabs** *Chrome browser theme extension*, (414 - 421). Singapore. https://chrome.google.com/webstore/detail/stylish-custom-themes-for/juhhtggggaggfsfgfgghshhs
+- Chrome browser extension theme. (2019) **A minimal theme for Chrome Browser using gradient grey colour and highlighted tabs** *Chrome browser theme extension*, (414 - 421). Singapore. https://chrome.google.com/webstore/detail/stylish-custom-themes-for/ddims
